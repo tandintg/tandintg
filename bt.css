@@ -2,7 +2,7 @@
 body {
     background-color: #C97C6A; /* Vintage red background */
     font-family: 'Arial', sans-serif;
-    color: #FFFFFF; /* White text for better contrast */
+    color: black; /* White text for better contrast */
     margin: 0;
     padding: 0;
     display: flex;
