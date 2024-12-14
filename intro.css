@@ -11,6 +11,7 @@
     width: 220px; /* Sidebar width */
     background-color: #f0b5b5; /* Soft vintage pink */
     padding: 20px;
+    position: sticky;
     border-radius: 10px;
     margin-right: 20px; /* Space between sidebar and content */
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
